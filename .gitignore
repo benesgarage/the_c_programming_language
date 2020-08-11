@@ -1,2 +1,5 @@
 # Ignore tags file
 tags
+
+# Ignore any compiled binaries
+*.out
